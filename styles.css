@@ -1,0 +1,28 @@
+body {
+
+    background-color: #003d5b;
+
+
+}
+.Btn {
+    background-color: #3083dc;
+    
+    border-style: solid;
+    
+}
+
+p {
+    font-size: 14px;
+    flex-wrap: initial;
+}
+
+h1 {
+    font-size: 30px;
+
+}
+
+nav {
+    background-color: #89c2d9;
+    height: 120px;
+
+}
